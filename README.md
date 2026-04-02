@@ -21,9 +21,9 @@ Our goal is to combine:
 ## 🚀 Projects
 
 Our portfolio includes a wide range of entertainment apps:
-*   **Fluffy Chu** https://play.google.com/store/apps/details?id=com.kiku.fluffychu&hl=en
-*   **Fluffy Puff** https://play.google.com/store/apps/details?id=com.kiku.fairypuff&hl=en
-*   **Fluffy Sushi** https://play.google.com/store/apps/details?id=com.kiku.fluffysushi&hl=en
+*   [**Fluffy Chu**](https://play.google.com/store/apps/details?id=com.kiku.fluffychu&hl=en)
+*   [**Fluffy Puff**](https://play.google.com/store/apps/details?id=com.kiku.fairypuff&hl=en)
+*   [**Fluffy Sushi**](https://play.google.com/store/apps/details?id=com.kiku.fluffysushi&hl=en)
 
 ---
 
