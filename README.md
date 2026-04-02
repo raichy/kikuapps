@@ -34,7 +34,7 @@ If you have any questions or want to learn more, feel free to reach out:
 | Platform | Link |
 | :--- | :--- |
 | **Email** | kikuappmail@gmail.com |
-| **YouTube** |https://www.youtube.com/c/kikuapps |
+| **YouTube** |[**https://www.youtube.com/c/kikuapps**](https://www.youtube.com/c/kikuapps) |
 
 ---
 *© 2026 by Kikuapps. Powered by creativity.*
