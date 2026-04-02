@@ -1,4 +1,5 @@
-# KikuApps 📱
+![unnamed](https://github.com/user-attachments/assets/4839d82b-602b-4a4f-b7fa-03d168b14505)
+# KikuApps
 
 **The best entertainment live wallpapers**
 
@@ -20,8 +21,9 @@ Our goal is to combine:
 ## 🚀 Projects
 
 Our portfolio includes a wide range of entertainment apps:
-*   **Mobile Games:** Exciting adventures in the palm of your hand.
-*   **Live Wallpapers:** High-quality animated backgrounds for your smartphone.
+*   **Fluffy Chu** https://play.google.com/store/apps/details?id=com.kiku.fluffychu&hl=en
+*   **Fluffy Puff** https://play.google.com/store/apps/details?id=com.kiku.fairypuff&hl=en
+*   **Fluffy Sushi** https://play.google.com/store/apps/details?id=com.kiku.fluffysushi&hl=en
 
 ---
 
